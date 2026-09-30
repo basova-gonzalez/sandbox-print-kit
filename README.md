@@ -2,19 +2,23 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-A local toolkit for turning the same message into five polished poster compositions, from DL to A3. It produces print-ready PDFs with 5 mm bleed and optional crop marks.
+A local toolkit that takes one set of copy and photos and produces five poster compositions, from DL to A3. The result is print-ready PDFs with 5 mm bleed and optional crop marks.
 
 ![Five Sandbox Print compositions using the fictional Demo Wall Climbing brand](docs/images/demo-compositions.png)
+
+The kit was commissioned by **Sandbox Bouldering** and is shown here with the fictional **Demo Wall Climbing** brand. No client logo, client photograph or client address is included. See the [project case study](https://kabago.ru/cases/sandbox-print/).
 
 ## What it does
 
 - Creates five editable HTML poster variants for one size.
-- Keeps photos, fonts and QR codes local to each working copy.
-- Checks missing facts, placeholder QR destinations, clipped text and overlaps.
+- Bundles photos, fonts and QR codes inside each working copy.
+- Catches missing facts, placeholder QR destinations, clipped text and overlaps.
 - Exports one-page PDFs with embedded fonts, bleed and crop marks.
 - Verifies PDF geometry, image quality, QR readability and trim consistency.
 
-The kit was commissioned by **Sandbox Bouldering** and is shown here with the fictional **Demo Wall Climbing** brand. No client logo, client photograph or client address is included. See the [project case study](https://kabago.ru/cases/sandbox-print/).
+## With or without an AI assistant
+
+The instructions are written so that a staff member can hand the kit to an AI assistant and get a finished poster, or a developer can follow them by hand. No AI agent or external service is required. Before the first delivery, clean copies of the kit were given to Claude Opus 4.6 and to Codex with no project history; both reached a finished PDF on their own. A later test with a smaller model skipped a check, so the check became mandatory.
 
 ## Requirements
 
