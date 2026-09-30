@@ -1,0 +1,11 @@
+.DS_Store
+._*
+__MACOSX/
+.AppleDouble/
+work/
+output/
+node_modules/
+.venv/
+.tools/
+.browsers/
+.bootstrap/

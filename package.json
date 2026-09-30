@@ -1,0 +1,32 @@
+{
+  "name": "sandbox-print-kit",
+  "version": "2.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "20.20.0"
+  },
+  "scripts": {
+    "html:new": "node scripts/direct-html.mjs new",
+    "html:photo": "node scripts/direct-html.mjs photo",
+    "html:qr": "node scripts/direct-html.mjs qr",
+    "html:pdf": "node scripts/direct-html.mjs pdf",
+    "v2:variants": "node scripts/v2-variants.mjs",
+    "v2:overlays": "node scripts/v2-overlays.mjs",
+    "v2:check": "node scripts/v2-check.mjs",
+    "test:photo": ".venv/bin/python tests/test_prepare_photo.py",
+    "test:check": "node tests/test-v2-check.mjs",
+    "test:overlays": "node tests/test-v2-overlays.mjs && .venv/bin/python tests/test_v2_quiet.py",
+    "test:all": "node --test tests/*.mjs && .venv/bin/python tests/test_prepare_photo.py && .venv/bin/python tests/test_v2_quiet.py",
+    "preview:demo": "node scripts/generate-demo-previews.mjs",
+    "verify:public": "node scripts/verify-public-release.mjs",
+    "privacy:scan": "node scripts/privacy-scan.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.62.1",
+    "pdf-lib": "1.17.1",
+    "qrcode": "1.5.4",
+    "pngjs": "7.0.0",
+    "jsqr": "1.4.0"
+  }
+}

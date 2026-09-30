@@ -1,0 +1,177 @@
+{
+  "C1-DL": {
+    "width": 99,
+    "height": 210,
+    "format": "DL",
+    "template": "templates/c1-dl.html",
+    "printCSS": "templates/c1-print.css"
+  },
+  "C1-A6": {
+    "width": 105,
+    "height": 148,
+    "format": "A6",
+    "template": "templates/c1-a6.html",
+    "printCSS": "templates/c1-print.css"
+  },
+  "C1-A5": {
+    "width": 148,
+    "height": 210,
+    "format": "A5",
+    "template": "templates/c1-a5.html",
+    "printCSS": "templates/c1-print.css"
+  },
+  "C1-A4": {
+    "width": 210,
+    "height": 297,
+    "format": "A4",
+    "template": "templates/c1-a4.html",
+    "printCSS": "templates/c1-print.css"
+  },
+  "C1-A3": {
+    "width": 297,
+    "height": 420,
+    "format": "A3",
+    "template": "templates/c1-a3.html",
+    "printCSS": "templates/c1-print.css"
+  },
+  "C2-DL": {
+    "width": 99,
+    "height": 210,
+    "format": "DL",
+    "template": "templates/c2-dl.html",
+    "printCSS": "templates/c2-dl-print.css"
+  },
+  "C2-A6": {
+    "width": 105,
+    "height": 148,
+    "format": "A6",
+    "template": "templates/c2-a6.html",
+    "printCSS": "templates/c2-a6-print.css"
+  },
+  "C2-A5": {
+    "width": 148,
+    "height": 210,
+    "format": "A5",
+    "template": "templates/c2-a5.html",
+    "printCSS": "templates/c2-print.css"
+  },
+  "C2-A4": {
+    "width": 210,
+    "height": 297,
+    "format": "A4",
+    "template": "templates/c2-a4.html",
+    "printCSS": "templates/c2-a4-print.css"
+  },
+  "C2-A3": {
+    "width": 297,
+    "height": 420,
+    "format": "A3",
+    "template": "templates/c2-a3.html",
+    "printCSS": "templates/c2-a3-print.css"
+  },
+  "C3-DL": {
+    "width": 99,
+    "height": 210,
+    "format": "DL",
+    "template": "templates/c3-dl.html",
+    "printCSS": "templates/c3-dl-print.css"
+  },
+  "C3-A6": {
+    "width": 105,
+    "height": 148,
+    "format": "A6",
+    "template": "templates/c3-a6.html",
+    "printCSS": "templates/c3-a6-print.css"
+  },
+  "C3-A5": {
+    "width": 148,
+    "height": 210,
+    "format": "A5",
+    "template": "templates/c3-a5.html",
+    "printCSS": "templates/c3-print.css"
+  },
+  "C3-A4": {
+    "width": 210,
+    "height": 297,
+    "format": "A4",
+    "template": "templates/c3-a4.html",
+    "printCSS": "templates/c3-a4-print.css"
+  },
+  "C3-A3": {
+    "width": 297,
+    "height": 420,
+    "format": "A3",
+    "template": "templates/c3-a3.html",
+    "printCSS": "templates/c3-a3-print.css"
+  },
+  "C4-DL": {
+    "width": 99,
+    "height": 210,
+    "format": "DL",
+    "template": "templates/c4-dl.html",
+    "printCSS": "templates/c4-dl-print.css"
+  },
+  "C4-A6": {
+    "width": 105,
+    "height": 148,
+    "format": "A6",
+    "template": "templates/c4-a6.html",
+    "printCSS": "templates/c4-print.css"
+  },
+  "C4-A5": {
+    "width": 148,
+    "height": 210,
+    "format": "A5",
+    "template": "templates/c4-a5.html",
+    "printCSS": "templates/c4-a5-print.css"
+  },
+  "C4-A4": {
+    "width": 210,
+    "height": 297,
+    "format": "A4",
+    "template": "templates/c4-a4.html",
+    "printCSS": "templates/c4-a4-print.css"
+  },
+  "C4-A3": {
+    "width": 297,
+    "height": 420,
+    "format": "A3",
+    "template": "templates/c4-a3.html",
+    "printCSS": "templates/c4-a3-print.css"
+  },
+  "C5-DL": {
+    "width": 99,
+    "height": 210,
+    "format": "DL",
+    "template": "templates/c5-dl.html",
+    "printCSS": "templates/c5-dl-print.css"
+  },
+  "C5-A6": {
+    "width": 105,
+    "height": 148,
+    "format": "A6",
+    "template": "templates/c5-a6.html",
+    "printCSS": "templates/c5-print.css"
+  },
+  "C5-A5": {
+    "width": 148,
+    "height": 210,
+    "format": "A5",
+    "template": "templates/c5-a5.html",
+    "printCSS": "templates/c5-a5-print.css"
+  },
+  "C5-A4": {
+    "width": 210,
+    "height": 297,
+    "format": "A4",
+    "template": "templates/c5-a4.html",
+    "printCSS": "templates/c5-a4-print.css"
+  },
+  "C5-A3": {
+    "width": 297,
+    "height": 420,
+    "format": "A3",
+    "template": "templates/c5-a3.html",
+    "printCSS": "templates/c5-a3-print.css"
+  }
+}

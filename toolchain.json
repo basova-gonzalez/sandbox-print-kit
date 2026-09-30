@@ -1,0 +1,12 @@
+{
+  "node": "v20.20.0",
+  "nodeCommand": "node",
+  "python": "3.12.13",
+  "browser": "151.0.7922.34",
+  "browserSha256": "a596b1cfc6353e987fcec8d71a23a28cd6a9e7a6b4e20b908e4c4fcffe51158e",
+  "popplerPath": ".tools/poppler/bin/pdftoppm",
+  "popplerSha256": "98ac4fedc4258b7125ad1048034c1448dccc58503614eb105f19d12cdb3a2d0d",
+  "popplerVersion": "26.05.0",
+  "platform": "darwin",
+  "arch": "arm64"
+}
